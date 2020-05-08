@@ -1,0 +1,132 @@
+[
+    {
+        "name": "AI = Future?",
+        "category": "Lectures",
+        "description": "Meet Dr. Feruzbek Asadov, a founder of OpenAI, to explore how AI impacts our life.",
+        "organizer": "Students' Union",
+        "timeEvent": "15:00",
+        "dateEvent": "14/03/2020",
+        "venueEvent": "IB201",
+        "priceEvent": "Free",
+        "id": 11,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 69.283461,
+            "latitude": 41.306988
+        },
+        "imageName": "women"
+    },
+
+    {
+        "name": "Get 70+ from AE",
+        "category": "Revisions",
+        "description": "Join us to learn how to achieve higher mark from distinctive students.",
+        "organizer": "Bookworms",
+        "timeEvent": "11:00",
+        "dateEvent": "16/04/2020",
+        "venueEvent": "ATB306",
+        "priceEvent": "Free",
+        "id": 12,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 69.280407,
+            "latitude": 41.306573
+        },
+        "imageName": "book"
+    },
+
+    {
+        "name": "Quiz Plz",
+        "category": "Fun",
+        "description": "Harry Potter fans are waiting for you to join our next quiz.",
+        "organizer": "Bookingham Project",
+        "timeEvent": "16:00",
+        "dateEvent": "25/02/2020",
+        "venueEvent": "IB301",
+        "priceEvent": "Free",
+        "id": 13,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+           "longitude": 69.283461,
+            "latitude": 41.306988
+        },
+        "imageName": "train"
+    },
+
+    {
+        "name": "TIMUN",
+        "category": "Conferences",
+        "description": "Take part in the first international MUN conference in Tashkent.",
+        "organizer": "WIUT MUN",
+        "timeEvent": "10:00",
+        "dateEvent": "11/03/2020",
+        "venueEvent": "Lyceum Hall",
+        "priceEvent": "Free",
+        "id": 14,
+        "isFeatured": true,
+        "isFavorite": true,
+        "coordinates": {
+            "longitude": 69.282398,
+            "latitude": 41.306343
+        },
+        "imageName": "timun"
+    },
+    {
+           "name": "Charity Concert",
+           "category": "Fun",
+           "description": "Enjoy charity concert by Warm Hearts Foundation by making small donations.",
+           "organizer": "Warm Heart Foundation",
+           "timeEvent": "18:00",
+           "dateEvent": "21/03/2020",
+           "venueEvent": "Lyceum Hall",
+           "priceEvent": "Charity",
+           "id": 15,
+           "isFeatured": true,
+           "isFavorite": true,
+           "coordinates": {
+               "longitude": 69.282398,
+               "latitude": 41.306343
+           },
+           "imageName": "concert"
+       },
+    {
+        "name": "Movie Night",
+        "category": "Fun",
+        "description": "Feeling tired of never-ending in-class tests? Come by at Lyceum Hall this friday.",
+        "organizer": "Cinema Lab",
+        "timeEvent": "18:00",
+        "dateEvent": "24/04/2020",
+        "venueEvent": "Lyceum Hall",
+        "priceEvent": "Free",
+        "id": 16,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 69.282398,
+            "latitude": 41.306343
+        },
+        "imageName": "deadpool"
+    },
+    {
+        "name": "Improve Speaking skills",
+        "category": "Lectures",
+        "description": "Lacking of self-confidence? Learn how to control it and show you best in public speaking.",
+        "organizer": "Stacy Nelson",
+        "timeEvent": "10:00",
+        "dateEvent": "03/05/2020",
+        "venueEvent": "Palace of Youth Creativity",
+        "priceEvent": "100.000 UZS",
+        "id": 17,
+        "isFeatured": true,
+        "isFavorite": false,
+        "coordinates": {
+            "longitude": 69.272739,
+            "latitude": 41.315296
+        },
+        "imageName": "girl"
+    }
+
+]
