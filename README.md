@@ -11,4 +11,4 @@ Screenshots:
 ![](ReadMe/home.jpeg)
 ![](ReadMe/list.jpeg)
 ![](ReadMe/details.jpeg)
-![](ReadMe/AR.gif)
+
